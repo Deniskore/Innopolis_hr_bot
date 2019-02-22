@@ -8,7 +8,12 @@ pip install UnQLite
 pip install python-telegram-bot --upgrade
 
 ```
-
+## Bot features
+- Date and time picker
+- Storing interview data in a local database
+- Interview notifications to HR private group
+- Basic anti-flood protection
+- Display upcoming interviews for admins
 
 ## Installation
 Clone this repo to your local machine.
