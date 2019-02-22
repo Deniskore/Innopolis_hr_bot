@@ -41,3 +41,5 @@ Then execute it!
 ```
 ./run_bot.sh
 ```
+## Example of usage
+![](show.gif)
