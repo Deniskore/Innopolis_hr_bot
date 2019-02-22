@@ -1,0 +1,1 @@
+screen -dm bash -c 'python3.6 bot.py'
